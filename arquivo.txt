@@ -3,3 +3,5 @@
 Arquivo da aula de Git e Github para iniciante
 
 Edição para ver como git funciona
+
+Editando para ver como o commit funciona
