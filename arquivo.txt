@@ -11,3 +11,14 @@ Fazendo minha terceira alteração para comitar
 Testando o GIT DIFF!!!
 
 Git diff --name-only mostra só os arquivos que sofreram alteração
+
+Utilizando o GIT CHECKOUT -> PARA VOLTAR PRO ESTADO DE ANTES DA MODIFICÇÃO
+
+UTILIZANDO O git reset HEAD-> para sair do 
+
+Utilizando o GIT CHECKOUT -> PARA VOLTAR PRO ESTADO DE ANTES DA MODIFICÇÃO
+
+UTILIZANDO O git reset HEAD-> para sair do 2° estagio e voltar estado de moficidado somente.
+
+Quando o arqivo está comitado já -> vou usar o git reset --soft --mixed --hard
+
