@@ -8,3 +8,5 @@ Editando para ver como o commit funciona
 
 Fazendo minha terceira alteração para comitar
 
+Testando o GIT DIFF!
+
