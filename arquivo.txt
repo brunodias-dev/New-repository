@@ -10,3 +10,4 @@ Fazendo minha terceira alteração para comitar
 
 Testando o GIT DIFF!!!
 
+Git diff --name-only mostra só os arquivos que sofreram alteração
