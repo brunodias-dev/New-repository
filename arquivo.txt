@@ -22,3 +22,8 @@ UTILIZANDO O git reset HEAD-> para sair do 2° estagio e voltar estado de mofici
 
 Quando o arqivo está comitado já -> vou usar o git reset --soft --mixed --hard
 
+Já fiz o conexão com SSH-agent. 
+
+E enviei o arquivo para o GITHUB utulizando as instruções do própiro site.
+
+Agora estou fazendo alterações e salvando novamente no site: Github.
